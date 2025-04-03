@@ -51,13 +51,6 @@ border-radius: 10px;
 margin-right: -5px;
 }
 
-.form{
-    border: 10px solid #86C129;
-    background-color: black;
-    margin-top: 50px;
-    margin-left: 35%;
-    padding: 5px;
-}
 
 @media only screen and (max-width: 1150px) {
 
@@ -80,6 +73,15 @@ margin-right: -5px;
         border: 20px solid #86C129;
         margin-right: 0px;
         }
+
+.form{
+    border: 10px solid #86C129;
+    background-color: black;
+    margin-top: 50px;
+    margin-left: 25%;
+    padding: 5px;
+}
+
 
 }
 
@@ -104,7 +106,15 @@ margin-right: -5px;
         border: 20px solid #86C129;
         margin-right: 0px;
         }
-        
+    
+    .form{
+        border: 10px solid #86C129;
+        background-color: black;
+        margin-top: 50px;
+        margin-left: 10%;
+        padding: 5px;
+        }  
+    
 }
     
 @media only screen and (max-width: 570px) {
@@ -129,9 +139,30 @@ margin-right: -5px;
         margin-right: 0px;
         }
 
+    .form{
+        border: 10px solid #86C129;
+        background-color: black;
+        margin-top: 50px;
+        margin-left: 0%;
+        padding: 5px;
+        }
+
 }
 
 @media only screen and (max-width: 475px) {
+
+    .header{
+        border: 5px solid black;
+        width: 100%;
+        margin-right: -55px;
+        padding: 10px;
+        text-align: center;
+        color: black;
+        background-image: url(white-patterned-wallpaper.jpg);
+        font-size:  20px;
+
+    }
+    
 
     P.Paragraph{
         font-family: "Algerian";
