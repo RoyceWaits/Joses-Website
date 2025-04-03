@@ -1,0 +1,156 @@
+body{
+    background-image: 
+    url(4443133.jpg);
+    background-size: cover;
+}
+
+.header{
+    border: 5px solid black;
+    text-align: left;
+    color: black;
+    background-image: url(white-patterned-wallpaper.jpg);
+    font-size:  20px;
+    margin: -5px;
+    padding:10px;
+}
+
+.nav-btn{
+    font-family: Algerian;
+    font-size: 25px;
+    color: black;
+    border: none;
+    margin-top: -30px;
+    margin-right: 25px;
+}
+
+.header-img1{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    margin-right: 10px;
+    border: none;
+    }
+
+P.Paragraph{
+    font-family: "Algerian";
+    padding: 15px;
+    font-size: 32px; 
+    color: white;
+    background-color: rgba(0, 0, 0, 0.8);
+    border: 10px solid #86C129;
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-right: 500px;
+}
+
+img{
+height: 450px;
+width: 450px;
+border: 20px solid #86C129;
+border-radius: 10px;
+margin-right: -5px;
+}
+
+.form{
+    border: 10px solid #86C129;
+    background-color: black;
+    margin-top: 50px;
+    margin-left: 35%;
+    padding: 5px;
+}
+
+@media only screen and (max-width: 1150px) {
+
+    P.Paragraph{
+        font-family: "Algerian";
+        padding: 5px;
+        font-size: 32px; 
+        color: white;
+        background-color: rgba(0, 0, 0, 0.8);
+        border: 10px solid #86C129;
+        border-radius: 10px;
+        margin-top: 50px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    img{
+        height: 450px;
+        width: 450px;
+        border: 20px solid #86C129;
+        margin-right: 0px;
+        }
+
+}
+
+@media only screen and (max-width: 720px) {
+
+    P.Paragraph{
+        font-family: "Algerian";
+        padding: 5px;
+        font-size: 32px; 
+        color: white;
+        background-color: rgba(0, 0, 0, 0.8);
+        border: 10px solid #86C129;
+        border-radius: 10px;
+        margin-top: 50px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    img{
+        height: 300px;
+        width: 300px;
+        border: 20px solid #86C129;
+        margin-right: 0px;
+        }
+        
+}
+    
+@media only screen and (max-width: 570px) {
+
+    P.Paragraph{
+        font-family: "Algerian";
+        padding: 5px;
+        font-size: 32px; 
+        color: white;
+        background-color: rgba(0, 0, 0, 0.8);
+        border: 10px solid #86C129;
+        border-radius: 10px;
+        margin-top: 50px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    img{
+        height: 225px;
+        width: 225px;
+        border: 10px solid #86C129;
+        margin-right: 0px;
+        }
+
+}
+
+@media only screen and (max-width: 475px) {
+
+    P.Paragraph{
+        font-family: "Algerian";
+        padding: 5px;
+        font-size: 32px; 
+        color: white;
+        background-color: rgba(0, 0, 0, 0.8);
+        border: 10px solid #86C129;
+        border-radius: 10px;
+        margin-top: 50px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    img{
+        height: 450px;
+        width: 450px;
+        border: 10px solid #86C129;
+        margin-right: 0px;
+        }
+
+}
